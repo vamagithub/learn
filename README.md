@@ -1,2 +1,1 @@
-# Solutions 
-Learn Python The Hard Way
+Learn Python The Hard Way - Python Solutions
